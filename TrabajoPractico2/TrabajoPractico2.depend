@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1526049262 source:c:\users\salgu\desktop\trabajopractico2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"validaciones.h"
+
+1526047609 c:\users\salgu\desktop\trabajopractico2\funciones.h
+
+1526047771 c:\users\salgu\desktop\trabajopractico2\validaciones.h
+
+1526046278 source:c:\users\salgu\desktop\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1526047949 source:c:\users\salgu\desktop\trabajopractico2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
